@@ -7,7 +7,7 @@
 <li>compare prices from different vendors and manufacturers.</li>
 <li>Local service providers: Users can connect with local installers and service providers who can help with installation and maintenance of green technology products.</li>
 <li>Resources and guides: Users can access resources and guides on how to reduce their carbon footprint and live a more sustainable lifestyle.</li>
-</li>Business resources: Businesses can find resources and services to help them transition to sustainable practices, such as energy audits and carbon offset programs.</li>
+<li>Business resources: Businesses can find resources and services to help them transition to sustainable practices, such as energy audits and carbon offset programs.</li>
 <li>Carbon footprint tracking: Users can track their carbon footprint and see the impact of their green technology choices on the environment.</li>
 </ul>
 
