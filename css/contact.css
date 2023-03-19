@@ -5,7 +5,7 @@
 }
 
 .container-fluid {
-  padding: 1% 10% 18%;
+  padding: 1% 10% ;
   margin-bottom: 0%;
 
   background-repeat: no-repeat;
@@ -197,8 +197,6 @@ textarea {
   align-items: center;
   justify-content: center;
   font-family: 'Poppins', sans-serif;
-  margin-bottom: 0%;
-  margin-top:5%;
 }
 
 .form {
@@ -220,26 +218,27 @@ textarea {
   position: relative;
 }
 
-.circle {
+/*.circle {
   border-radius: 50%;
   background: linear-gradient(135deg, transparent 20%, #5bc41b);
   position: absolute;
 }
+*/
 
-.circle.one {
+/*.circle.one {
   width: 130px;
   height: 130px;
   top: 130px;
   right: -40px;
 }
-
-.circle.two {
+*/
+/*.circle.two {
   width: 80px;
   height: 80px;
   top: 10px;
   right: 30px;
 }
-
+*/
 .contact-form:before {
   content: "";
   position: absolute;
@@ -491,7 +490,7 @@ textarea.input {
   opacity: 0.3;
 }
 
-.big-circle {
+/*.big-circle {
   position: absolute;
   width: 0px;
   height: 500px;
@@ -501,7 +500,8 @@ textarea.input {
   right: 50%;
   transform: translate(-40%, 38%);
 }
-
+*/
+/*
 .big-circle:after {
   content: "";
   position: absolute;
@@ -512,7 +512,7 @@ textarea.input {
   top: calc(50% - 180px);
   left: calc(50% - 180px);
 }
-
+*/
 .square {
   position: absolute;
   height: 400px;
@@ -637,5 +637,5 @@ textarea.input {
 }
 ::placeholder{
   color: white;
-  opacity: 50%;
+  opacity: 70%;
 }
