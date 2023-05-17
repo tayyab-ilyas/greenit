@@ -29,6 +29,8 @@
 
 <h2>Marketing strategy</h2>
 
+See the presentation<a href="https://www.canva.com/design/DAFcWOFM_2Q/LtFkliGzWB7lJakB9-W3RA/edit?utm_content=DAFcWOFM_2Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">here</a>
+
 <p>Greenit could target its marketing efforts towards environmentally conscious individuals and businesses through social media advertising, Google Ads, and content marketing. EcoTech could also partner with environmental organizations and offer discounts to their members. Additionally, EcoTech could use referral marketing by offering incentives to current users who refer new customers to the platform.</p>
 
 
