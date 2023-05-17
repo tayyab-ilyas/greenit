@@ -1,6 +1,8 @@
 # Greenit
 <p>Greenit is a service-based website that connects individuals and businesses with green technology products and services, promoting sustainable living and reducing carbon footprints.</p>
 
+See the presentation <a href="https://www.canva.com/design/DAFcWOFM_2Q/LtFkliGzWB7lJakB9-W3RA/edit?utm_content=DAFcWOFM_2Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">here</a>
+
 <h2>Features</h2>
 <ul>
 <li>Product and service listings: Users can browse through a list of green technology products and services, such as solar panels, electric vehicles, eco-friendly appliances, and energy-efficient lighting.</li>
@@ -28,8 +30,6 @@
 <p>To sustain the platform, Greenit can charge vendors and manufacturers a fee for being listed on the platform, or charge a commission on each sale made through the website. Alternatively, EcoTech could offer premium services, such as marketing support and lead generation, to vendors and service providers.</p>
 
 <h2>Marketing strategy</h2>
-
-See the presentation<a href="https://www.canva.com/design/DAFcWOFM_2Q/LtFkliGzWB7lJakB9-W3RA/edit?utm_content=DAFcWOFM_2Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">here</a>
 
 <p>Greenit could target its marketing efforts towards environmentally conscious individuals and businesses through social media advertising, Google Ads, and content marketing. EcoTech could also partner with environmental organizations and offer discounts to their members. Additionally, EcoTech could use referral marketing by offering incentives to current users who refer new customers to the platform.</p>
 
